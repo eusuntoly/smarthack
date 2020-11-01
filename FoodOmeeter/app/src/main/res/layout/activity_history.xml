@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="6dp"
+    tools:context=".HistoryActivity">
+
+    <!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/recycler_view2"-->
+<!--        android:layout_width="405dp"-->
+<!--        android:layout_height="500dp"-->
+<!--        android:layout_below="@+id/score"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_marginTop="83dp"-->
+<!--        android:layout_marginBottom="69dp">-->
+
+<!--    </androidx.recyclerview.widget.RecyclerView>-->
+    <TextView
+        android:id="@+id/name_product_history"
+        android:layout_width="366dp"
+        android:layout_height="93dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="71dp"
+        android:text="History"
+        android:fontFamily="cursive"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="152dp"></TextView>
+
+    <TextView
+        android:id="@+id/textbox"
+        android:layout_width="397dp"
+        android:layout_height="566dp"
+        android:layout_below="@+id/name_product_history"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="11dp"
+        android:textSize="20dp" />
+</RelativeLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798579059276",
+    "firebase_url": "https://foodometer-e2365.firebaseio.com",
+    "project_id": "foodometer-e2365",
+    "storage_bucket": "foodometer-e2365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798579059276:android:60b3f395f34a131edd22e9",
+        "android_client_info": {
+          "package_name": "com.hackovfl.foodomeeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798579059276-eer9ec0al53522jo8jl867spnrrsehdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjDDDvZTYVH2C1JtAEtNWcnoFAOctPzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798579059276-eer9ec0al53522jo8jl867spnrrsehdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

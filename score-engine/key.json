@@ -1,8 +1,8 @@
 {
   "type": "service_account",
   "project_id": "smarthack-hackoverflow",
-  "private_key_id": "ef56961069c6f6bf19335b125af94270f87779a7",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCareInrzws2V8u\nlwwWif3uIndpuEZBd5F9ySrH/JryDPEO2MsYjlEd0hGsTFyMSd20qEpNMyJUNI+M\nQ+LtHe5IAydlbh+c4JN5GlGuz2v8vXPy6DWhOY02nXA+tWGhGZmoUEckUUo7BTjp\n2Vm8Aooc2Ek/o86gwk7I5AmYcxJ+QDr4gv4XjBjdPVbqenqM8yLnJ8Cx8ow0n6/X\n8ejkS4F7GEILIJDc/J9lN2ZqYDKu3dqA9HQcCkVXo3d5k64FGJUlOz8Ktnx7B+d8\nAP1zVGLI5oBVypUWm4rBiZGIi2qVz2QMXWnU8Gn63aWZqkAWIl0jB5Q8INFJOCkg\ndine6wj/AgMBAAECgf9q5wPRzseYZzIf40rinEy0ARI/QEYkahOsrAKR7bA6t5lI\nDsjGGBkJuLS5uVpVAClAO26nsMdKiPE76BprCDi4zexIvKnDS37oY3fhEeVI3+Kc\nRm985j3Qb15xjW1Fcx6bz/GipQ776yMLUj5rC4Xlztc8NnFK5V9GliSCqYgSjsc9\n0M5vSO6Hoy9luethf//jZ0F3CJZS7EzHnTE2axj1ZuE6zlUpdM62efbzTBnSJC1O\n4cQOtJJmQM/awlYUYBMnfbsVjsfOnczpby7i8mdKxDl06bAgNfAT4Hipvi0pEsz1\n7JDOAzU+TGliHuNp5Hn5IicN4RW6+jpRSycTfcECgYEA0XgzfWAk/qXGmmjoT6Ky\ngAMfwelL+VBmyRyYqawNLIkEcMkorG/W6GiHtL/zA6wTRVWrMBDf81tHNb3zLj6j\nFfBx36sj1g2kSGpuxzvjXlptiN5Qn/eBUU9EOauzwR9PETnpJYuNzZIgscQnZpJX\nEt+mCKkjIZXf3hrVsl++lqsCgYEAvQnzGe1gwD0Zzper/Sp8nrp/aIfUDwsFdUta\n+E2rTx4KXEFp2sgreraFhxaQm+VNE2iK8S/mpoc2f/ZCEuK0Mlwtk6N+/jo9oLGA\nLFSpkKuit7/bsyXG4p58AIlrgvC46Onm4xBa66+CTAzvNaVjz5J7VxRs7gtqHsAx\n/Y6YZv0CgYEAlTsPY8j1Uj4EaclHiESe6rhPDbUJnUr8j1bCJE8g65OKCFgnlAHx\nl42w8MK3fOxApmrMFOhQxG1JJC55a37QbTbpybGBTGRXoAfDeElgSL4fvxyzT+Pi\ny2yvbG65F2MYz2r0gP0VP1lV1Y+rilXDlvyiqxTkpG7EGNYBXJz9iRUCgYBHy1GS\nlT7bg9kbRytAuTQfLIFa98sn822dQINKLmVTZPtWUlmbh85LiqpnxcAiFRISvu+V\n7jVRJaUjMCmj9omtXqjIm52NfB0PvJoLPBQyJ51i3/DWtxAz3TEHGynDzxzLCJpx\nvjJptHxt2bO30hp4KQ/C4LUGKzugdioGPHPRGQKBgHrCag+tSDodhlnJtoUZ5Lsk\nOuXrhgbv7EaMhkJMOvn675XkYdMMcgT6B1GLokYG9h18rlryNt8A1DhfgBDRn97b\n79ZBwg75uLp+QO+PdvxI4LSuMSWOXM3+eMcweWyKjlXzDm/Bt0tK70AAGEqYH/ZD\nYjZLDc4ipEes1rlZgT2/\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "*******************",
+  "private_key": "**************************************",
   "client_email": "my-vision-sa@smarthack-hackoverflow.iam.gserviceaccount.com",
   "client_id": "112618150323421166860",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
